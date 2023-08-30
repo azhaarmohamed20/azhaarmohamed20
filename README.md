@@ -4,9 +4,10 @@
 
 👋 Young Programmer & Tech Enthusiast 🌟
 
-🎓 17-year-old student at Kantonsschule Büelrain, dedicated to Informatikmittelschule.
-👩‍💻 Passionate learner, exploring the diverse realms of programming and technology.
-📚 Join me on my journey of coding discovery as I embrace the world of possibilities in the realm of programming! 🚀🌐 #FutureTechTrailblazer
+🎓 17-year-old student at Kantonsschule Büelrain, dedicated to Informatikmittelschule. <br>
+👩‍💻 Passionate learner, exploring the diverse realms of programming and technology. <br>
+📚 Join me on my journey of coding discovery as I embrace the world of possibilities in the realm of programming! <br>
+🚀🌐 #FutureTechTrailblazer
 
 ---
 
